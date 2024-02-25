@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data science from International institute of information technology,bengaluru
 - 💞️ I’m looking to collaborate on Projects and internships
 - 📫 How to reach me +91-7483471770,Gmail: shashishashidhar071@gmail.com
+- Linkedin:https://www.linkedin.com/in/shashidhartheanalyst
 
 <!---
 shashidharTheAnalyst/shashidharTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
